@@ -67,7 +67,7 @@ nav ul li{
 .icons i{
     cursor: pointer;
 }
-#progressBar{
+#myProgressBar{
     width: 80vw;
     cursor: pointer;
 }

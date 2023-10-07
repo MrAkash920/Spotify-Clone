@@ -1,3 +1,16 @@
 font-family: 'Merriweather', serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Varela Round', sans-serif;
+
+let songs = [
+    {songName: "Aabaad Barbaad", filePath: "songs/Aabaad Barbaad 320 Kbps.mp3", coverPath: "covers/cover1.jpg"},
+    {songName: "Soch Liya Radhe Shyam", filePath: "songs/Soch Liya Radhe Shyam 320 Kbps.mp3", coverPath: "covers/cover2.jpg"},
+    {songName: "Aashiqui Aa Gayi Radhe Shyam", filePath: "songs/Aashiqui Aa Gayi Radhe Shyam Hindi 320 Kbps.mp3", coverPath: "covers/cover3.jpg"},
+    {songName: "Alizeh Ae Dil Hai Mushkil", filePath: "songs/Alizeh Ae Dil Hai Mushkil 320 Kbps.mp3", coverPath: "covers/cover4.jpg"},
+    {songName: "Alvida", filePath: "songs/Alvida Rangoon 320 Kbps.mp3", coverPath: "covers/cover5.jpg"},
+    {songName: "Baatein Ye Kabhi Na", filePath: "songs/Baatein Ye Kabhi Na Male Khamoshiyan 128 Kbps.mp3", coverPath: "covers/cover6.jpg"},
+    {songName: "Ami Je Tomar Tandav Version", filePath: "songs/Ami Je Tomar Tandav Version Bhool Bhulaiyaa 2 320 Kbps.mp3", coverPath: "covers/cover7.jpg"},
+    {songName: "Aayat Bajirao Mastani", filePath: "songs/Aayat Bajirao Mastani 320 Kbps.mp33", coverPath: "covers/cover8.jpg"},
+    {songName: "Tum Hi Ho Aashiqui 2", filePath: "songs/Tum Hi Ho Aashiqui 2 320 Kbps.mp3", coverPath: "covers/cover9.jpg"},
+    {songName: "Aasan Nahin Yahan Aashiqui 2", filePath: "songs/Aasan Nahin Yahan Aashiqui 2 320 Kbps.mp3", coverPath: "covers/cover10.jpg"}
+]
