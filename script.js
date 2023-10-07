@@ -10,8 +10,8 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "Soch Liya Radhe Shyam", filePath: "songs/2.mp3", coverPath: "covers/cover1.jpg"},
-    {songName: "Aabaad Barbaad", filePath: "songs/1.mp3", coverPath: "covers/cover2.jpg"},
+    {songName: "Aabaad Barbaad", filePath: "songs/2.mp3", coverPath: "covers/cover1.jpg"},
+    {songName: "Soch Liya Radhe Shyam", filePath: "songs/1.mp3", coverPath: "covers/cover2.jpg"},
     {songName: "Aashiqui Aa Gayi Radhe Shyam", filePath: "songs/3.mp3", coverPath: "covers/cover3.jpg"},
     {songName: "Alizeh Ae Dil Hai Mushkil", filePath: "songs/4.mp3", coverPath: "covers/cover4.jpg"},
     {songName: "Alvida", filePath: "songs/5.mp3", coverPath: "covers/cover5.jpg"},
