@@ -12,7 +12,7 @@ Welcome to VibesVault, a simple and stylish music player website developed using
 
 - **Sleek Design**: VibeVault sports a modern and minimalist design that focuses on what matters most - your music.
 
-- **Responsive**: Whether you're on a computer, tablet, or phone, VibeVault looks and works great on all devices.
+- **Responsive**: Whether you're on a computer, tablet, or phone, VibesVault looks and works great on all devices.
 
 ## Demo 🎉
 
@@ -52,16 +52,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements 🙏
 
-- Special thanks to [Name of an Artist] for the awesome music used in this demo.
+- Special thanks to #Arijit Singh for the awesome music used in this demo.
 
 ## Contact Us 📧
 
 If you have any questions, suggestions, or just want to chat about music, feel free to reach out to us at [snghakashcu@gmail.com](mailto:singhakashcu@gmail.com).
 
-## Stay in the Groove with VibeVault! 🎧🕺
+## Stay in the Groove with VibesVault! 🎧🕺
 
-VibeVault is here to make your music experience enjoyable and hassle-free. Give it a try and turn up the volume on your music vibes today!
+VibesVault is here to make your music experience enjoyable and hassle-free. Give it a try and turn up the volume on your music vibes today!
 
 [![GitHub stars](https://img.shields.io/github/stars/MrAkash920/VibesVault.svg?style=social)](https://github.com/MrAkash920/VibesVault/stargazers)
 
-*Made with ❤️ by [Your Name]*
+*Made with ❤️ by Akash Singh*
